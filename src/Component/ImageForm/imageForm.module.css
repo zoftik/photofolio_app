@@ -1,0 +1,28 @@
+
+/* input box  */
+.inputBox{
+    width: 43%;
+    margin-right: 2%;    
+    border-radius: 18px;
+}
+
+/* buttons */
+.btn{
+    margin: 10px;
+    width: 100px;
+    height: 31px;
+    color: white;
+    border-radius: 18px;
+}
+
+/* add button */
+.add{
+    background-color: #2a3287;
+    border-radius: 18px;
+}
+
+/* clear button */
+.clear{
+    background-color:#ff414e;
+    border-radius: 18px;
+}
